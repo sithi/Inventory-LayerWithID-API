@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "921a6ba8-887c-4202-95df-1292b1748700": {
+      "ProjectGuid": "921a6ba8-887c-4202-95df-1292b1748700",
+      "DisplayName": "AssetInventory",
+      "ColorIndex": 0
+    },
+    "34507f29-b571-4a95-8d00-6f5866fceb87": {
+      "ProjectGuid": "34507f29-b571-4a95-8d00-6f5866fceb87",
+      "DisplayName": "Model",
+      "ColorIndex": 1
+    },
+    "3dc3ffdc-ee72-4544-8c4f-783e2034fe1d": {
+      "ProjectGuid": "3dc3ffdc-ee72-4544-8c4f-783e2034fe1d",
+      "DisplayName": "DatabaseLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1ca84c4f-857e-4748-8dad-009c081eab02": {
+      "ProjectGuid": "1ca84c4f-857e-4748-8dad-009c081eab02",
+      "DisplayName": "AssetInventory.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

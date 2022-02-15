@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TNbd6E/btyzlky4x3X5cEl8r/Y074qLUbPdfgJhGAUEyutfPQCv87k4gLvPfhWG8SSLRIvXvROuOb5Hemj94A==",
+  "success": true,
+  "projectFilePath": "D:\\Codemen\\Inventory-LayerWithID-API\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pamir Bangladesh Ltd\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\Pamir Bangladesh Ltd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

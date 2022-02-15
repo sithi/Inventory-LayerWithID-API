@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "YIMhgAtEfjn5WmHBX5K8SgICaYfwS9l9TAv3zGiul1U=",
+  "Source": "AssetInventory.Tests",
+  "BasePath": "_content/AssetInventory.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\pc\\source\\CodeMen\\inventory-layer-api\\AssetInventory\\AssetInventory.csproj",
+      "Version": 2,
+      "Source": "AssetInventory",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
